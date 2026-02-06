@@ -1,6 +1,9 @@
 {
   "functions": {
-    "api/*.php": {
+    "api/results.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/multiple_key.php": {
       "runtime": "vercel-php@0.6.0"
     }
   }
